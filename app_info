@@ -1,0 +1,5 @@
+import requests <-- Python Requests
+
+pip install requests
+
+export FLASK_APP = app.py <-- allows to use Flask Run
